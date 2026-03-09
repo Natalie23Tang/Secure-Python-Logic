@@ -16,10 +16,13 @@ Notably, I rewrote the original example code (Guess the random number game) in T
 2. Download the `.py` files from this repository.
 3. Open a terminal or command prompt (CMD) and navigate to the folder.
 4. Run your preferred game using the following commands:
-   1. To run the Fixed Number Game:
+
+   4.1. To run the Fixed Number Game:
    ```bash
    python guess_the_number_game.py
+   ```
 
-   2. To run the Random Number Game:
+   4.2. To run the Random Number Game:
    ```bash
    python guess_the_random_number_game.py
+   ```
